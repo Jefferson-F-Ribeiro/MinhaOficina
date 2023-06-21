@@ -2,7 +2,7 @@
 
 O MinhaOficina é uma plataforma abrangente para a gestão eficiente de uma oficina mecânica. Desenvolvido utilizando as tecnologias Django REST Framework e React, esse sistema oferece recursos avançados para simplificar as operações diárias de uma oficina, promovendo maior organização, controle e produtividade.
 
-# Principais recursos e funcionalidades:
+# 🖥 Principais recursos e funcionalidades: 🖥
 
 🟢 Gerenciamento de clientes: O MinhaOficina permite registrar informações detalhadas dos clientes, incluindo nome, contato, veículos associados, histórico de serviços e notas adicionais. Com isso, é possível acompanhar e manter um relacionamento eficiente com os clientes.
 
@@ -18,4 +18,21 @@ O MinhaOficina é uma plataforma abrangente para a gestão eficiente de uma ofic
 
 🟢 Relatórios e análises: O sistema oferece recursos para gerar relatórios personalizados, fornecendo insights valiosos sobre o desempenho da oficina. É possível analisar métricas como número de serviços realizados, tempo médio de atendimento, lucratividade e muito mais.
 
-O MinhaOficina é uma solução completa e intuitiva, que visa otimizar os processos de gestão de uma oficina mecânica, proporcionando maior eficiência, satisfação dos clientes e crescimento do negócio. Com uma interface amigável e recursos poderosos, esse sistema é uma escolha ideal para oficinas que desejam aprimorar suas operações e se destacar no mercado. 
+O MinhaOficina é uma solução completa e intuitiva, que visa otimizar os processos de gestão de uma oficina mecânica, proporcionando maior eficiência, satisfação dos clientes e crescimento do negócio. Com uma interface amigável e recursos poderosos, esse sistema é uma escolha ideal para oficinas que desejam aprimorar suas operações e se destacar no mercado.
+
+# 🔧 Instalação 🔧
+
+## Backend
+
+```sh
+sudo apt-get install python3-pip
+```
+```sh
+sudo pip install virtualenv
+```
+```sh
+python3 -m venv venv
+```
+```sh
+source venv/bin/activate
+```
