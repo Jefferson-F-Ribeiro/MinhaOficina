@@ -37,6 +37,6 @@ python3 -m venv venv
 source venv/bin/activate
 ```
 # Requirements:
-> Django
-> Django Rest Framework
-> Python3
+Django
+Django Rest Framework
+Python3
